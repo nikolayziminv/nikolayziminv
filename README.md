@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @nikolayziminv
-- 👀 I’m interested in Java, C++ and programming languages as a phenomenon
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: kolyazimin95@yandex.ru
+- Моя уметь программировать...
+- Моя знает C++, C#, Java, Python и Scratch...
+- Моя хочет выучить Go, Js и Powershell...
+-
+- Моя ленивый и редко программирует
+-
+- Всего вам доброго!)
 
 <!---
 nikolayziminv/nikolayziminv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
