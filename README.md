@@ -1,4 +1,4 @@
-Кожу...дю...жу... пишу код, короче....
+Пишу на C# (GUI, Console, Android)
 
 <!---
 nikolayziminv/nikolayziminv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
